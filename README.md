@@ -23,7 +23,5 @@ Then you can see your project running here `http://localhost:3000`
 
 Yes! That's all.
 
-If you have any feedback or found any bugs then just create new issues.
-
 NoCodeAPI [Website](https://nocodeapi.com)
 Follow NoCodeAPI on [Twitter](https://twitter.com/nocodeapi)
